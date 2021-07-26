@@ -1,4 +1,5 @@
 What happens if you change SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' on line 16 to SYMBOLS = 'ABC'?
+* You would only be able 
 What happens when you encrypt a message with key 0?
 What error message do you get if you delete or comment out translated = '' on line 56?
 What error message do you get if you delete or comment out key = int(response) on line 45?
